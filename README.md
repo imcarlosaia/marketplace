@@ -17,9 +17,7 @@ A small buy-and-sell marketplace built with React, Next.js and Supabase. Sellers
 - Loading, empty and error states, a not-found page for removed listings, and a clear notice if the database is not connected
 - Works by keyboard, labelled for screen readers, and laid out for phones
 
-## Bonus features
-
-Both optional extras from the brief are included.
+## Bonus features : 
 
 ### 1. Keyword search
 
