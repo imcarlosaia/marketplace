@@ -2,7 +2,7 @@
 
 A small buy-and-sell marketplace built with React, Next.js and Supabase. Sellers post an item with a photo, buyers browse by category, open a listing and message the seller.
 
-**See it live:** _link added after deployment_
+**See it live:** https://marketplace-tau-three-29.vercel.app
 
 ![The home page with categories and listings](screenshots/01-home.jpg)
 
